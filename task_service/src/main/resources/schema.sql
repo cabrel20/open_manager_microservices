@@ -1,0 +1,1 @@
+CREATE DATABASE taskdb COLLATE utf8_general_ci
